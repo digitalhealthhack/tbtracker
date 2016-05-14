@@ -1,3 +1,5 @@
+Data in this folder was downloaded from the WorldBank website on 7th May 2016, is used here for illustrative purposes, and may be out of date.
+
 "The World Bank's Open Data initiative is intended to provide all users with access to World Bank data, according to the Open Data Terms of Use. The data catalog is a listing of available World Bank datasets, including databases, pre-formatted tables, reports, and other resources."
 
 [World Bank Data Catalog](http://datacatalog.worldbank.org/)
